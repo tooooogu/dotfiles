@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/ubuntu64/.vim/pack/plugins/start/coc.nvim/doc'
+let g:netrw_dirhist_4='/home/ubuntu64/Documents/test/vim-colors-solarized/colors'
+let g:netrw_dirhist_3='/home/ubuntu64/.vim/pack'
+let g:netrw_dirhist_2='/home/ubuntu64/Documents/test/pdb-tutorial'
+let g:netrw_dirhist_1='/home/ubuntu64/.vim/pack/plugins/start/ale'
